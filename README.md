@@ -8,7 +8,7 @@ A containerized API microservice for datasets obtained from https://data.oregon.
 - T-SQL, SQL Server
 - Docker, Docker-Compose
 
-## Process 
+## Workflow Process 
 1. Find and download a CSV dataset that is either interesting or has potential for interesting ways of querying / sorting the data. 
 2. Clean the data up and make sure no columns are missing 
 3. Write the initialization script for the database and tables needed for the dataset
