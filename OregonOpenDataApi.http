@@ -1,0 +1,6 @@
+@OregonOpenDataApi_HostAddress = http://localhost:5037
+
+GET {{OregonOpenDataApi_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
